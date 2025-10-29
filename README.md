@@ -1,0 +1,2 @@
+# LLM-Chatbot_Local_Groq-Llama_Google-Gemini_OpenAI
+Integrate Large Language Models (LLMs) with a fully functioning application. Set up a server environment locally on laptop, creating an application using a database. The specific technologies are Python (Scripting), Flask (Application framework), and MySQL (database). Deploy the user management application with role-based access to Smith IT server.
