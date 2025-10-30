@@ -3,9 +3,9 @@
 2. Deploy the user management application with role-based access to the Smith IT server.  
 3. Integrate Large Language Models (LLMs) with a fully functioning application.  
   (a) Local LLM  
-  (b) Groq Llama  
-  (c) Google Gemini  
-  (d) OpenAI  
+  (b) Groq Llama  (https://console.groq.com/home)  
+  (c) Google Gemini  (https://aistudio.google.com/)  
+  (d) OpenAI  (https://platform.openai.com/api-keys)  
 
 The specific technologies are Python (Scripting), Flask (Application framework), and MySQL (database). 
 
