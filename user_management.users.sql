@@ -11,6 +11,6 @@ role ENUM('Admin', 'Customer') NOT NULL
 );
 
 INSERT INTO users (name, email, password, role) VALUES
-('Admin1', 'admin1@umd.edu', 'f6c9a97f5519dca4cb070015296c7b87475a5377e4247b584fc200758d065992', 'Admin'),
-('Admin2', 'admin2@umd.edu', 'f6c9a97f5519dca4cb070015296c7b87475a5377e4247b584fc200758d065992', 'Admin'),
-('Krystin', 'cwlee426@umd.edu', 'f6c9a97f5519dca4cb070015296c7b87475a5377e4247b584fc200758d065992', 'Customer') ;
+('Admin1', 'admin1@umd.edu', 'scrypt:32768:8:1$DqWez2vaURpJXcT8$3e1b840a0bbd4483707a455e9d396634dfca3c43ec67980a74003f08b00401af10842eae1b079529f378342243276c14e7d2acdfb98e9f87f9c229373627dd54', 'Admin'),
+('Admin2', 'admin2@umd.edu', 'scrypt:32768:8:1$DqWez2vaURpJXcT8$3e1b840a0bbd4483707a455e9d396634dfca3c43ec67980a74003f08b00401af10842eae1b079529f378342243276c14e7d2acdfb98e9f87f9c229373627dd54', 'Admin'),
+('Krystin', 'cwlee426@umd.edu', 'scrypt:32768:8:1$DqWez2vaURpJXcT8$3e1b840a0bbd4483707a455e9d396634dfca3c43ec67980a74003f08b00401af10842eae1b079529f378342243276c14e7d2acdfb98e9f87f9c229373627dd54', 'Customer') ;
