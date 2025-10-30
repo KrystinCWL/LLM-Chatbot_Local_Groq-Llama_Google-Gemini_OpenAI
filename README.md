@@ -1,7 +1,11 @@
-# LLM-Chatbot_Local_Groq-Llama_Google-Gemini_OpenAI
+# LLM Chatbot Application with Role-Based Access System
 1. Set up a server environment locally on a laptop, creating an application using a database. 
-2. Integrate Large Language Models (LLMs) with a fully functioning application.
-3. Deploy the user management application with role-based access to the Smith IT server.  
+2. Deploy the user management application with role-based access to the Smith IT server.  
+3. Integrate Large Language Models (LLMs) with a fully functioning application.  
+  (a) Local LLM  
+  (b) Groq Llama  
+  (c) Google Gemini  
+  (d) OpenAI  
 
 The specific technologies are Python (Scripting), Flask (Application framework), and MySQL (database). 
 
@@ -20,3 +24,11 @@ Password: BMGT407-Admin
 🧑‍🎓Customer:  
 Email: cwlee426@umd.edu  
 Password: test123
+
+## LLM Chatbot
+### File Upload
+![File Upload](https://github.com/KrystinCWL/LLM-Chatbot_Local_Groq-Llama_Google-Gemini_OpenAI/blob/main/Output%20Screenshots%20and%20Demo%20Video/Admin%20File%20Upload%20Page_Screenshots.png)
+### Chatbot with Groq Llama API
+![Groq Llama API](https://github.com/KrystinCWL/LLM-Chatbot_Local_Groq-Llama_Google-Gemini_OpenAI/blob/main/Output%20Screenshots%20and%20Demo%20Video/Groq%20Llama%20API%20Chatbot_Screenshots.png)
+### Chatbot with Google Gemini API
+![Google Gemini API](https://github.com/KrystinCWL/LLM-Chatbot_Local_Groq-Llama_Google-Gemini_OpenAI/blob/main/Output%20Screenshots%20and%20Demo%20Video/Google%20Gemini%20API%20Chatbot_Screenshots.png)
