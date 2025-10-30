@@ -1,4 +1,5 @@
 USE user_management;
+
 DROP TABLE IF EXISTS users;
 
 CREATE TABLE users (
@@ -13,5 +14,3 @@ INSERT INTO users (name, email, password, role) VALUES
 ('Admin1', 'admin1@umd.edu', 'f6c9a97f5519dca4cb070015296c7b87475a5377e4247b584fc200758d065992', 'Admin'),
 ('Admin2', 'admin2@umd.edu', 'f6c9a97f5519dca4cb070015296c7b87475a5377e4247b584fc200758d065992', 'Admin'),
 ('Krystin', 'cwlee426@umd.edu', 'f6c9a97f5519dca4cb070015296c7b87475a5377e4247b584fc200758d065992', 'Customer') ;
-
--- scrypt:32768:8:1$XI9U51A1sKyBUcYD$878a2edcbed31ea56ad620d9d95f250b2864e9e6911be31731b84a34be845989e6270851a4d5f033a570e8983087ff853edfc74d50823226db0c0ffd988700b4
