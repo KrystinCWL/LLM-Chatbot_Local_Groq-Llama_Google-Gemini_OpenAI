@@ -44,7 +44,7 @@
     <td valign="top" width=auto>
       <h3>🧑‍🎓Customer</h3>
       <ul>
-        <li>Email: cwlee426@umd.edu</li>
+        <li>Email: demo@umd.edu</li>
         <li>Password: test123</li>
       </ul>
     </td>
